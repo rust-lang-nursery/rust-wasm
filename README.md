@@ -1,1 +1,1 @@
-# Moved to [http://rustwasm.github.io/book](http://rustwasm.github.io/book)
+# Moved to [https://github.com/rustwasm/team](https://github.com/rustwasm/team)
